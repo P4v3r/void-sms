@@ -71,7 +71,7 @@ Protezione IV: Random a 96 bit per ogni operazione
 - Ogni dato è isolato con un vettore di inizializzazione unico (IV)
 - Sistema di versionamento per futura rotazione delle chiavi
 
-### 🚫 Cosa NON Archiviaamo
+### 🚫 Cosa NON Archiviamo
 
 - ❌ Numeri telefonici acquistati
 - ❌ Contenuto degli SMS ricevuti
@@ -80,7 +80,7 @@ Protezione IV: Random a 96 bit per ogni operazione
 - ❌ Log di navigazione
 - ❌ Cronologia delle verifiche
 
-### ⚠️Nota Importante sulla Blockchain
+### ⚠️ Nota Importante sulla Blockchain
 
 Le transazioni Bitcoin sono pubbliche e permanenti sulla blockchain. Se usi BTC, chiunque può vedere il tuo indirizzo sulla blockchain.
 
@@ -131,7 +131,7 @@ Per offrirti il servizio, archiviamo solo:
 - Pagamento on-chain
 - Conferma in ~10-30 minuti
 - Zero dati personali richiesti
-- L'indirizzo viene eliminato automaticamente dopo 24 ore se non utilizzato
+- L'indirizzo viene eliminato automaticamente dopo l'utilizzo
 
 ---
 
