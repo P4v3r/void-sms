@@ -1,6 +1,6 @@
 # Void SMS Bot
 
-> Servizio di numeri temporanei italiani per la verifica SMS via Telegram
+> 🤖 **[Apri il Bot su Telegram](https://t.me/voiddsmsbot)**
 
 ![Void SMS](https://img.shields.io/badge/Telegram-Bot-blue?style=flat-square&logo=telegram)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
