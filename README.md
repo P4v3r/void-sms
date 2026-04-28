@@ -1,4 +1,4 @@
-# Void SMS Bot
+# VOID-SMS Bot
 
 > 🤖 **[Apri il Bot su Telegram](https://t.me/voiddsmsbot)**
 
