@@ -1,4 +1,4 @@
-# VOID-SMS Bot
+# VOID-SMS bot
 
 **The most private & secure SMS verification**
 
