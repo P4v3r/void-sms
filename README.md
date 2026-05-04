@@ -1,5 +1,7 @@
 # VOID-SMS Bot
 
+Most private & secure SMS verification 
+
 > 🤖 **[Apri il Bot su Telegram](https://t.me/voiddsmsbot)**
 
 ![Void SMS](https://img.shields.io/badge/Telegram-Bot-blue?style=flat-square&logo=telegram)
